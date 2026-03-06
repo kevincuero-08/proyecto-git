@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-# Proyecto Clase Git
+# Proyecto-Git
 
 Proyecto para aprender a usar Git y GitHub.
-=======
-# proyecto-git
-Proyecto para aprender a usar Git y GitHub.
 
-Wilfreider Trochez
 
 Este proyecto fue creado por Kevin Cuero y yo Wilfreider Trochez sere un colaborador
->>>>>>> b57aea81cb0a423fceaf4bcdf1c694c52f86b33dMi nombre es [Estudiante 2]
+
+Mi nombre es Kevin (Estrudiante 1).
+
+Mi nombre es wilfreider (Estudiante 2).
